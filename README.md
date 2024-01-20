@@ -1,6 +1,7 @@
 # Python e Programmazione a Oggetti 
 
-Questo spazio contiene il materiale per il modulo di programmazione procedurale a oggetti del corso <a href="https://www.itsturismomarche.it/corsi/sviluppatore-software-its.php">ITS Full 
+Questo spazio contiene il materiale per il modulo di programmazione procedurale e a oggetti del corso <a 
+href="https://www.itsturismomarche.it/corsi/sviluppatore-software-its.php">ITS Full 
 Stack 
 Developer e Cloud Specialist 2023-2027</a>.
 
