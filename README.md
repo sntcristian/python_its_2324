@@ -10,28 +10,27 @@ Developer e Cloud Specialist 2023-2027</a>.
 
 ### Bibliografia
 
-Il seguente corso basa i suoi contenuti sul libro <a href="https://www.digitalocean.
-com/community/books/digitalocean-ebook-how-to-code-in-python">How To Code in Python</a> di Lisa Tagliaferri.
+Il seguente corso basa i suoi contenuti sul libro <a href="https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python">How To Code in Python</a> di Lisa Tagliaferri.
 
 
 ### Materiale
 
 
 1. [26/01/2024] Python: File ed Eccezioni
-   * slides: [Google Slides](https://docs.google.com/presentation/d/1vcHdX16_2cUWlwewkyQuIFZMaitTevPMVUbMznmTzLg/edit?usp=sharing)
-   * Esercizi: [Esercizio 1](), [Esercizio 2]()
-   * Python: 
+   * Slides: [Google Slides](https://docs.google.com/presentation/d/1vcHdX16_2cUWlwewkyQuIFZMaitTevPMVUbMznmTzLg/edit?usp=sharing)
+   * Esercizi: [Google Doc](https://docs.google.com/document/d/1U-ycr4jLOiIwkO7Y0L5YFR-muVdwbW78a1dZCxqLdz4/edit?usp=sharing)
+   * Soluzioni: 
 
 2. [1/02/2024] Python: Oggetti e Concetto di Ereditarietà
-   * slides: [Google Slides]()
-   * Esercizi: [Esercizio 1](), [Esercizio 2]()
+   * Slides: [Google Slides]()
+   * Esercizi: [Google Doc]()
    * Python: 
 
 3. [1/02/2024] Esercitazione: liste, insiemi e dizionari
-   * Esercizi: [Esercizio 1](), [Esercizio 2](), [Esercizio 3]()
+   * Esercizi: [Google Doc]()
    * Python: 
 
-3. [2/02/2024] Python: Test Driven Development e Unittest
-   * slides: [Google Slides]()
-   * Esercizi: [Esercizio 1]()
+4. [2/02/2024] Python: Test Driven Development e Unittest
+   * Slides: [Google Slides]()
+   * Esercizi: [Google Doc]()
    * Python: 
