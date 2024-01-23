@@ -22,8 +22,8 @@ Il seguente corso basa i suoi contenuti sul libro <a href="https://www.digitaloc
    * Soluzioni: 
 
 2. [1/02/2024] Python: Oggetti e Concetto di Ereditarietà
-   * Slides: [Google Slides]()
-   * Esercizi: [Google Doc]()
+   * Slides: [Google Slides](https://docs.google.com/presentation/d/1viqNMrxH_dFDbMJNZzF4OqU6lgnNYQZ76G78wi1WNs8/edit?usp=sharing)
+   * Esercizi: [Google Doc](https://docs.google.com/document/d/1UlgTSENTsOR5TOR517xv6-Ow8CAPgxoPiFrgImcyktQ/edit?usp=sharing)
    * Python: 
 
 3. [1/02/2024] Esercitazione: liste, insiemi e dizionari
