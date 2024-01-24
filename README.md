@@ -10,7 +10,7 @@ Developer e Cloud Specialist 2023-2027</a>.
 
 ### Bibliografia
 
-Il seguente corso basa i suoi contenuti sui seguenti libri: 
+Questo corso basa i suoi contenuti sui seguenti libri: 
 * Horstmann, C. S., & Necaise, R. D. (2014). Concetti di informatica e fondamenti di Python. Maggioli Editore. ISBN: 9788891635433
 * Tagliaferri, L. (2018). How To Code in Python 3. DigitalOcean. ISBN:978-0999773017 ([Disponibile online](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python))
 * Peroni, S., Heibi, I., & Massari, A. (2022). Computational Thinking and Programming. The CTP Book. ([Disponibile 
