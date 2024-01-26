@@ -19,6 +19,11 @@ Questo corso basa i suoi contenuti sui seguenti libri:
 
 ### Materiale
 
+1. [26/01/2024] Python: Funzioni
+   * Slide: [Google Slides](https://docs.google.com/presentation/d/1WuY1dHGV5I3Lxg3AOCZPx8uc-VuvA26eux0eo492vaI/edit?usp=sharing)
+   * Esercizi: [Google Doc](https://docs.google.com/document/d/1LRlNmA7twaY8iJ2a4aSqpwP1zp5nKYGLf1JzvJ5MGqU/edit?usp=sharing)
+   * Soluzioni: [esercizio_1a.py](script/lezione_1/esercizio_1a.py), [esercizio_1b.py](script/lezione_1/esercizio_1b.py), [esercizio_1c.py](script/lezione_1/esercizio_1c.py)
+   * Python: [ordina_lista.py](script/lezione_1/ordina_lista.py)
 
 1. [26/01/2024] Python: File ed Eccezioni
    * Slide: [Google Slides](https://docs.google.com/presentation/d/1vcHdX16_2cUWlwewkyQuIFZMaitTevPMVUbMznmTzLg/edit?usp=sharing)
