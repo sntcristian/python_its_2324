@@ -30,7 +30,8 @@ Questo corso basa i suoi contenuti sui seguenti libri:
    * Esercizi: [Google Doc](https://docs.google.com/document/d/1U-ycr4jLOiIwkO7Y0L5YFR-muVdwbW78a1dZCxqLdz4/edit?usp=sharing)
    * Soluzioni: [esercizio_1a.py](script/lezione_2/esercizio_1a.py), [esercizio_1b.py](script/lezione_2/esercizio_1b.py)
 
-2. [1/02/2024] Esercitazione: Strutture dati
+2. [1/02/2024] Esercitazione: Insiemi e Dizionari
+   * Spiegazione: [link](https://loristissino.gitbooks.io/oopython/content/chapter07/07_insiemi_e_dizionari.html)
    * Esercizi: [Google Doc](https://docs.google.com/document/d/1hN8R-h7yexwj8yFgvfbOW3xUympBQlVdPOZXyX0lsXU/edit?usp=sharing)
    * Soluzioni: [esercizio_1a.py](script/lezione_3/esercizio_1a.py), [esercizio_1b.py](script/lezione_3/esercizio_1b.py), [esercizio_1c.py](script/lezione_3/esercizio_1c.py), [esercizio_1d.py](script/lezione_3/esercizio_1d.py), [esercizio_2.py](script/lezione_3/esercizio_2.py)
 
