@@ -30,12 +30,7 @@ Questo corso basa i suoi contenuti sui seguenti libri:
    * Esercizi: [Google Doc](https://docs.google.com/document/d/1U-ycr4jLOiIwkO7Y0L5YFR-muVdwbW78a1dZCxqLdz4/edit?usp=sharing)
    * Soluzioni: 
 
-2. [1/02/2024] Python: Oggetti e Concetto di Ereditarietà
-   * Slide: [Google Slides](https://docs.google.com/presentation/d/1viqNMrxH_dFDbMJNZzF4OqU6lgnNYQZ76G78wi1WNs8/edit?usp=sharing)
-   * Esercizi: [Google Doc](https://docs.google.com/document/d/1UlgTSENTsOR5TOR517xv6-Ow8CAPgxoPiFrgImcyktQ/edit?usp=sharing)
+2. [1/02/2024] Esercitazione: Strutture non ordinate
+   * Esercizi: [Google Doc](https://docs.google.com/document/d/1hN8R-h7yexwj8yFgvfbOW3xUympBQlVdPOZXyX0lsXU/edit?usp=sharing)
    * Soluzioni:
 
-4. [2/02/2024] Python: Test Driven Development e Unittest
-   * Slide: [Google Slides](https://docs.google.com/presentation/d/1imMpo70labS-z2DxGrlYV0ON54WMCeQeGVKldMeNeOY/edit?usp=sharing)
-   * Esercizi: [Google Doc](https://docs.google.com/document/d/1HKep3b04pOze3Pj-n21trER9ZZ42WgQmJctmGpoGowY/edit?usp=sharing)
-   * Soluzioni: 
